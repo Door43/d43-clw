@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[clw:home|Door43 (clw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-clw|d43-clw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-clw/archive/master.zip|d43-clw.zip]]
+
+**Recent Changes**
+{{changes>ns = clw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/clw|Ethnologue data]]
+
